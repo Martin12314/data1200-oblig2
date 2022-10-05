@@ -29,4 +29,80 @@ html {
 }
 
 #page-two {
+    background-color: rgb(243, 243, 230);
 }
+
+h1{
+ width: 100%;   
+ font-size: 100px; 
+ margin-bottom: 20px;
+ margin-left: 15px;
+  
+}
+
+h2{
+    color: rgb(159, 7, 7);
+    margin-left: 10px;
+}
+h3{
+
+
+}
+
+h4{
+    width: 97%;
+    font-size: 20px;
+    margin-top: 20px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    margin-left: 15px;
+
+   
+}
+
+.Avsnitt1{
+   float: left;
+   text-align: left;
+   margin-left: 0px;
+
+}
+.Avsnitt2{
+    
+
+}
+.Avsnitt3{
+    margin-top: 0px;
+
+}
+.Avsnitt1, .Avsnitt2, .Avsnitt3{
+  
+    float: left;
+    width: 31%;
+    padding: 15px;
+    text-align: justify; 
+    
+    
+   
+}
+
+
+
+
+#Boks{
+    background-color: rgb(216, 212, 197);
+
+   
+}
+#info{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#Stor{
+margin-top: -12px;
+float: left;
+font-size: 70px;
+
+    
+}
+
