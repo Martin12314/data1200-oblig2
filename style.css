@@ -52,7 +52,7 @@ h3{
 }
 
 h4{
-    width: 77%;
+    width: 81%;
     font-size: 20px;
     margin-top: 20px;
     border-top: 2px solid black;
@@ -66,8 +66,9 @@ h4{
 .Avsnitt1{
    float: left;
    text-align: left;
-   width: 25%;
+   width: 30%;
    margin-left: 100px;
+  
 
 
   
@@ -80,7 +81,7 @@ h4{
 .Avsnitt3{
     
     margin-top: 0px;
-    width: 24%;
+    width: 23%;
    
 
    
@@ -90,10 +91,12 @@ h4{
     float: left;
     padding: 15px;
     text-align: justify; 
+    text-align: left;
     
     
    
 }
+
 
 #Boks{
     background-color: rgb(216, 212, 197);
@@ -103,13 +106,13 @@ h4{
 }
 #info{
     margin-left: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 33px;
 }
 
 #Stor{
-margin-top: -11px;
+margin-top: -14px;
 float: left;
-font-size: 60px;   
+font-size: 70px;   
 }
 
 
